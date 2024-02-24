@@ -13,5 +13,3 @@
 ![Harv's GitHub Most Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Hxrv3y&layout=donut&theme=transparent&hide_border=true)
 
 ![Harv's GitHub Activity](https://github-readme-stats.vercel.app/api/wakatime?username=Hxrv3y&theme=transparent&v=2&hide_border=true)
-
-![](https://komarev.com/ghpvc/?username=Hxrv3y&color=blue)
