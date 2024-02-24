@@ -6,15 +6,12 @@
 
 <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" /> Lua
 
-## Status
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/394499198046961665?theme=transparent&bg=0d1117&animated=true&idleMessage=Hi%20I%20Dev&borderRadius=15px&hideDiscrim=false)](https://discord.com/users/394499198046961665)
-
 ## Stats
 
-![Bentheborg's GitHub commits](https://github-readme-streak-stats.herokuapp.com/?user=hxrv3y&theme=transparent&hide_border=true)
+![Harv's GitHub commits](https://github-readme-streak-stats.herokuapp.com/?user=hxrv3y&theme=transparent&hide_border=true)
 
-![Bentheborg's GitHub Most Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Hxrv3y&layout=donut&theme=transparent&hide_border=true)
+![Harv's GitHub Most Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Hxrv3y&layout=donut&theme=transparent&hide_border=true)
 
-![Bentheborg's GitHub Activity](https://github-readme-stats.vercel.app/api/wakatime?username=Hxrv3y&theme=transparent&v=2&hide_border=true)
+![Harv's GitHub Activity](https://github-readme-stats.vercel.app/api/wakatime?username=Hxrv3y&theme=transparent&v=2&hide_border=true)
 
 ![](https://komarev.com/ghpvc/?username=Hxrv3y&color=blue)
