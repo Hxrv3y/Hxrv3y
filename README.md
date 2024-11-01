@@ -10,7 +10,7 @@
 
 Founder - Gun Game V - 2023 - Present
 
-Jr Software Engineer - Zea Developement - 2024 - Present
+Jr Software Engineer - Zea Development - 2024 - Present
 
 Developer - Nexus Inovations - 2024 - Present
 
