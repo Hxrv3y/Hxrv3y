@@ -6,10 +6,40 @@
 
 <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" /> Lua
 
-## Stats
+## Work
 
-![Harv's GitHub commits](https://github-readme-streak-stats.herokuapp.com/?user=hxrv3y&theme=transparent&hide_border=true)
+Founder - Gun Game V - 2023 - Present
 
-![Harv's GitHub Most Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Hxrv3y&layout=donut&theme=transparent&hide_border=true)
+Jr Software Engineer - Zea Developement - 2024 - Present
 
-![Harv's GitHub Activity](https://github-readme-stats.vercel.app/api/wakatime?username=Hxrv3y&theme=transparent&v=2&hide_border=true)
+Developer - Nexus Inovations - 2024 - Present
+
+Developer - Blue Line RP - 2024 - 2024
+
+Developer - Evermore UK - 2024 - 2024 - SHUT DOWN
+
+Car Developer - LDN RP - 2024 - 2024
+
+Car Developer - INTRNL - 2024 - 2024
+
+Weapon Developer INTRNL - 2024 - 2024
+
+Car Developer - United Gaming - 2023 - 2023
+
+Weapon Developer - NLRP - 2023 - 2023 - SHUT DOWN
+
+Weapon Developer - GRP - 2023 - 2023 - SHUT DOWN
+
+Car Developer - GRP - 2023 - 2023 - SHUT DOWN
+
+Maps Developer - Galaxy Roleplay - 2023 - 2023 - SHUT DOWN
+
+Weapon Developer - After Deathmatch - 2022 - 2023 - SHUT DOWN
+
+Car Developer - After Deathmatch - 2022 - 2023 - SHUT DOWN
+
+Car Developer - District V - 2022 - 2023 - SHUT DOWN
+
+Weapon Developer - Elite Deathmatch - 2022 - 2022 - SHUT DOWN
+
+Car Developer - CPX RP - 2021 - 2022 - SHUT DOWN
