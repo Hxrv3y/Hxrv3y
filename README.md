@@ -22,7 +22,7 @@ Car Developer - LDN RP - 2024 - 2024
 
 Car Developer - INTRNL - 2024 - 2024
 
-Weapon Developer INTRNL - 2024 - 2024
+Weapon Developer - INTRNL - 2024 - 2024
 
 Car Developer - United Gaming - 2023 - 2023
 
