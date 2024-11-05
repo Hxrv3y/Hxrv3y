@@ -8,15 +8,17 @@
 
 ## Work
 
-Founder - Gun Game V - 2023 - Present
+Founder - Gun Game V - 2023 - Present - Custom Framework
 
-Jr Software Engineer - Zea Development - 2024 - Present
+Jr Software Engineer - Zea Development - 2024 - Present - FiveM script creation
 
-Developer - Nexus Inovations - 2024 - Present
+Developer - Nexus Inovations - 2024 - Present - FiveM script creation
 
-Developer - Blue Line RP - 2024 - 2024
+Developer - Unique RP - 2024 - Present - TMC Framework
 
-Developer - Evermore UK - 2024 - 2024 - SHUT DOWN
+Developer - Blue Line RP - 2024 - 2024 - QB-Core
+
+Developer - Evermore UK - 2024 - 2024 - SHUT DOWN - QB-Core
 
 Car Developer - LDN RP - 2024 - 2024
 
