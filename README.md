@@ -10,7 +10,7 @@
 
 Founder - Gun Game V - 2023 - Present - Custom Framework
 
-Jr Software Engineer - Zea Development - 2024 - Present - FiveM script creation
+Developer - Zea Development - 2024 - Present - FiveM script creation
 
 Developer - Nexus Inovations - 2024 - Present - FiveM script creation
 
