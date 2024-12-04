@@ -14,7 +14,7 @@ Developer - Zea Development - 2024 - Present - FiveM script creation
 
 Developer - Nexus Inovations - 2024 - 2024 - FiveM script creation
 
-Developer - Unique RP - 2024 - Present - TMC Framework
+Developer - Unique RP - 2024 - 2024
 
 Developer - Blue Line RP - 2024 - 2024 - QB-Core
 
