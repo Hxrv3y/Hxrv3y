@@ -8,40 +8,44 @@
 
 ## Work
 
-Founder - Gun Game V - 2023 - Present - Custom Framework
+Weapon Developer (Paid Work) - GM Shop - 2025 - Present - Custom Weapon Skins - Install Guides
 
-Developer - Zea Development - 2024 - 2025 - FiveM script creation
+Developer (Paid Work) - Windy City RP - Custom python program to create addon projectile weapons for FiveM
 
-Developer - Nexus Inovations - 2024 - 2024 - FiveM script creation
+Founder - Gun Game V - 2023 - 2025 - Custom Framework
 
-Developer - Unique RP - 2024 - 2024
+Developer (Unpaid Work) - Zea Development - 2024 - 2025 - FiveM script creation
 
-Developer - Blue Line RP - 2024 - 2024 - QB-Core
+Developer (Paid Work if Script were brought) - Nexus Inovations - 2024 - 2024 - FiveM script creation
 
-Developer - Evermore UK - 2024 - 2024 - SHUT DOWN - QB-Core
+Developer (Unpaid Work) - Unique RP - 2024 - 2024
 
-Car Developer - LDN RP - 2024 - 2024
+Developer (Unpaid Work) - Blue Line RP - 2024 - 2024 - SHUT DOWN - QB-Core
 
-Car Developer - INTRNL - 2024 - 2024
+Developer (Unpaid Work) - Evermore UK - 2024 - 2024 - SHUT DOWN - QB-Core
 
-Weapon Developer - INTRNL - 2024 - 2024
+Car Developer (Unpaid Work) - LDN RP - 2024 - 2024
 
-Car Developer - United Gaming - 2023 - 2023
+Car Developer (Unpaid Work) - INTRNL - 2024 - 2024
 
-Weapon Developer - NLRP - 2023 - 2023 - SHUT DOWN
+Weapon Developer (Unpaid Work) - INTRNL - 2024 - 2024
 
-Weapon Developer - GRP - 2023 - 2023 - SHUT DOWN
+Car Developer (Unpaid Work) - United Gaming - 2023 - 2023
 
-Car Developer - GRP - 2023 - 2023 - SHUT DOWN
+Weapon Developer (Unpaid Work) - NLRP - 2023 - 2023 - SHUT DOWN
 
-Maps Developer - Galaxy Roleplay - 2023 - 2023 - SHUT DOWN
+Weapon Developer (Unpaid Work) - GRP - 2023 - 2023 - SHUT DOWN
 
-Weapon Developer - After Deathmatch - 2022 - 2023 - SHUT DOWN
+Car Developer (Unpaid Work) - GRP - 2023 - 2023 - SHUT DOWN
 
-Car Developer - After Deathmatch - 2022 - 2023 - SHUT DOWN
+Maps Developer (Unpaid Work) - Galaxy Roleplay - 2023 - 2023 - SHUT DOWN
 
-Car Developer - District V - 2022 - 2023 - SHUT DOWN
+Weapon Developer (Unpaid Work) - After Deathmatch - 2022 - 2023 - SHUT DOWN
 
-Weapon Developer - Elite Deathmatch - 2022 - 2022 - SHUT DOWN
+Car Developer (Unpaid Work) - After Deathmatch - 2022 - 2023 - SHUT DOWN
 
-Car Developer - CPX RP - 2021 - 2022 - SHUT DOWN
+Car Developer (Unpaid Work) - District V - 2022 - 2023 - SHUT DOWN
+
+Weapon Developer (Unpaid Work) - Elite Deathmatch - 2022 - 2022 - SHUT DOWN
+
+Car Developer (Unpaid Work) - CPX RP - 2021 - 2022 - SHUT DOWN
