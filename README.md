@@ -8,6 +8,14 @@
 
 <img width="20" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" /> HTML
 
+<img width="20" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" /> CSS
+
+<img width="20" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" /> JavaScript
+
+<img width="20" src="https://img.icons8.com/?size=100&id=bzf0DqjXFHIW&format=png&color=000000" /> React
+
+<img width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/WebSocket_colored_logo.svg/1200px-WebSocket_colored_logo.svg.png" /> Websocket
+
 ## Work
 
 Weapon Developer (Paid Work) - GM Shop - 2025 - Present - Custom Weapon Skins - Install Guides
