@@ -6,7 +6,7 @@
 
 <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" /> Lua
 
-<img width="20" src="https://icons8.com/icon/20909/html-5" /> HTML
+<img width="20" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" /> HTML
 
 ## Work
 
