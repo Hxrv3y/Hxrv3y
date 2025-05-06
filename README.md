@@ -15,13 +15,3 @@
 <img width="20" src="https://img.icons8.com/?size=100&id=bzf0DqjXFHIW&format=png&color=000000" /> React
 
 <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/WebSocket_colored_logo.svg/1200px-WebSocket_colored_logo.svg.png" /> Websocket
-
-Weapon Developer (Unpaid Work) - After Deathmatch - 2022 - 2023 - SHUT DOWN
-
-Car Developer (Unpaid Work) - After Deathmatch - 2022 - 2023 - SHUT DOWN
-
-Car Developer (Unpaid Work) - District V - 2022 - 2023 - SHUT DOWN
-
-Weapon Developer (Unpaid Work) - Elite Deathmatch - 2022 - 2022 - SHUT DOWN
-
-Car Developer (Unpaid Work) - CPX RP - 2021 - 2022 - SHUT DOWN
